@@ -8,7 +8,8 @@ Description: This package will collect all the functions used in the course in R
 License: GPL (>= 2)
 Imports: mathjaxr, Rdpack, 
   hydroGOF, 
-  tidyverse
+  tidyverse, patchwork,
+  reshape2
 RoxygenNote: 7.2.3
 Roxygen: list(markdown = TRUE)
 Encoding: UTF-8
